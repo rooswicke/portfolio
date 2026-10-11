@@ -79,7 +79,7 @@ Een administratieplatform voor Delaware, een Belgisch IT-consultancybedrijf. In 
 | Database | MySQL, Drizzle ORM |
 | Talen | JavaScript, TypeScript, Java |
 | Testing | Cypress, Jest |
-| Tools | Git, GitHub, Docker, Swagger, Render, Scratch |
+| Tools | Git, GitHub, Docker, Swagger|
 
 ---
 
