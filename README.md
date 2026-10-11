@@ -1,7 +1,7 @@
 # Roos Wicke
 
 **Student Toegepaste Informatica @ HOGENT** · Full Stack Development  
-Coach en ontwikkelaar bij **CodeFever**, waar kinderen leren programmeren
+Leerkracht bij **CodeFever**, waar kinderen leren programmeren
 
 [Over mij](#over-mij) · [Projecten](#projecten) · [Tech stack](#tech-stack) · [Contact](#contact)
 
