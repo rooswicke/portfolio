@@ -1,4 +1,4 @@
-# Hoi, ik ben Roos Wicke
+#Roos Wicke
 
 **Student Toegepaste Informatica @ HOGENT** · Full Stack Development  
 Coach en ontwikkelaar bij **CodeFever**, waar kinderen leren programmeren
@@ -9,9 +9,7 @@ Coach en ontwikkelaar bij **CodeFever**, waar kinderen leren programmeren
 
 ## Over mij
 
-Ik studeer Toegepaste Informatica aan HOGENT, met als specialisatie Full Stack Development. Naast mijn studies werk ik bij CodeFever. Daar geef ik les aan kinderen en bouw ik mee aan lesmateriaal en tools rond programmeren in Scratch.
-
-Ik werk graag aan het volledige plaatje, van een gebruiksvriendelijke frontend tot een degelijke API erachter. Het liefst in een klein team waar je samen iets bouwt dat echt gebruikt wordt.
+Ik studeer Toegepaste Informatica aan HOGENT, met als specialisatie Full Stack Development. Naast mijn studies werk ik bij CodeFever. Daar geef ik les aan kinderen en bouw ik mee aan lesmateriaal.
 
 ---
 
